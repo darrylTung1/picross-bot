@@ -1,0 +1,13 @@
+# Personal data the bot creates while you play
+picross_digits.npz
+picross_buttons/
+picross_capture.png
+picross_last.png
+picross_config.json
+selftest_fail_*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
